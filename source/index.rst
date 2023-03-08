@@ -14,7 +14,7 @@ Documentação PABX Ligue Aí
 **PABX Ligue Aí**
 ---------------
 
-Um projeto de código aberto que fornece uma interface personalizável e
+Um PABX que fornece uma interface personalizável e
 interface web flexível para o muito poderoso e altamente escalável
 comutador de voz multiplataforma chamado `FreeSWITCH`_.
 
