@@ -17,12 +17,12 @@ Um projeto de código aberto que fornece uma interface personalizável e
 interface web flexível para o muito poderoso e altamente escalável
 comutador de voz multiplataforma chamado `FreeSWITCH`_.
 
-O FusionPBX será executado em uma variedade de sistemas operacionais (otimizado para Debian 8+) e
-hardware de sua escolha. FusionPBX fornece uma GUI para provisionamento de softphone QR Code, ilimitado
+O PABX Ligue Aí será executado em uma variedade de sistemas operacionais (otimizado para Debian 8+) e
+hardware de sua escolha. PABX Ligue Aífornece uma GUI para provisionamento de softphone QR Code, ilimitado
 ramais, correio de voz para e-mail, música em espera, estacionamento de chamadas, analógico
-linhas ou circuitos T1/E1 de alta densidade e muitos outros recursos. FusionPBX
-fornece a funcionalidade que os negócios precisam e fornece
-recursos de sistema telefônico de alto nível para pequenas, médias e grandes empresas. `Clica aqui para mais informações no nosso site`_ .
+linhas ou circuitos T1/E1 de alta densidade e muitos outros recursos. PABX Ligue Aí
+fornece a funcionalidade que os negócios precisam e fornece recursos de sistema telefônico de alto nível para pequenas, médias e grandes empresas. 
+`Clica aqui para mais informações no nosso site`_ .
 
 .. raw:: html
 
@@ -34,13 +34,11 @@ recursos de sistema telefônico de alto nível para pequenas, médias e grandes 
 Benefícios do PABX Ligue Aí
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Adding extra functionality to the incredibly robust FreeSWITCH VoIP Platform.
-2. Makes FreeSWITCH easy to administer while at the same time
-   still allowing you to work directly within `FreeSWITCH`_ Command Line Interface (fs_cli) when you need to. 
-3. Gives your users and tenants an attractive GUI interface to interact with. 
+1. Adicionando funcionalidade extra à plataforma VoIP FreeSWITCH incrivelmente robusta.
+2. Torna o FreeSWITCH fácil de administrar e, ao mesmo tempo, permite que você trabalhe diretamente na interface de linha de comando do FreeSWITCH (fs_cli) quando precisar.
+3. Dá a seus usuários e locatários uma interface GUI atraente para interagir.
 
-
-`FusionPBX Features`_
+`Características do Ligue Aí`_
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 +-------------------------+-----------------------+---------------------------------+------------------------------------------+
