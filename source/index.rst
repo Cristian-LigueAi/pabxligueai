@@ -55,12 +55,12 @@ Benefícios do PABX Ligue Aí
 | `Time Conditions`_      | `WebRTC ready`_       |    `Voicemail`_                 |      `and lots more...`_                 |
 +-------------------------+-----------------------+---------------------------------+------------------------------------------+
 
-Our Ecosystem
+Nosso Ecossistema
 ^^^^^^^^^^^^^^^
 
-We are a **global community** that has an open and **very friendly** ecosystem.  We encourage community engagement, contribution and feedback. Please join us by getting involved with giving feedback, new feature ideas, helping out with code or Documentation.
+Somos uma **comunidade global** que possui um ecossistema aberto e **muito amigável**. Incentivamos o envolvimento, a contribuição e o feedback da comunidade. Por favor, junte-se a nós, envolvendo-se em dar feedback, novas ideias de recursos, ajudando com código ou documentação.
 
-Most of the core folks who develop and use FusionPBX can be found hanging out in IRC network **irc.libera.chat** in the **#fusionpbx** channel. Come join us and meet the team.
+A maioria das pessoas principais que desenvolvem e usam o Ligue Aí podem ser encontradas na rede IRC **irc.libera.chat** no canal **#ligueai**. Venha se juntar a nós e conhecer a equipe.
 
 .. _Device Provisioning: applications/provision.html
 .. _Streams: applications/streams.html
