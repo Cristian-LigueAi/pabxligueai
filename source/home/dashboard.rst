@@ -8,13 +8,14 @@ Acesse rapidamente informações e ferramentas relacionadas à sua conta. Depend
         :scale: 85%
 
 
-* **Voicemail:** New and total voicemails related to the users voicemail box.  A user can be assigned to more than 1 voicemail box.
-* **Missed Calls:** Missed calls for the user.
-* **Recent Calls:** Number of calls in the last 24 hours.
-* **System Status:** Disk usage in percentage, FusionPBX version, FreeSWITCH version, FreeSWITCH uptime, OS Uptime, CPU Usage, DB Connections, Channels and Registrations.
-* **Call Routing:**  See if call forward, follow me, do not disturb is set and a quick wat to edit those options if needed.
-* **Ring Group Forward:** See the name, extension number, if forwarding is enabled and what number it is forwarded to.
-* **System Counts:** Number of Domains, Devices, Extensions, Gateways, Users, Destinations, CC Queues, IVR Menus, Ring Groups, Voicemail and if they are disabled.
+* **Correio de Voz:** Correio de voz: Mensagens de voz novas e totais relacionadas à caixa de correio de voz do usuário. Um usuário pode ser atribuído a mais de 1 caixa de correio de voz.
+* **Chamadas Perdidas:** Chamadas perdidas para o usuário.
+* **Chamadas Atendidas:** Chamadas atendidas para o usuário.
+* **Chamadas Recentes:** Número de chamadas nas últimas 24 horas.
+* **Estado Sistema:** Uso do disco em porcentagem, versão do FusionPBX, versão do FreeSWITCH, tempo de atividade do FreeSWITCH, tempo de atividade do sistema operacional, uso da CPU, conexões de banco de dados, canais e registros.
+* **Roteamento de Chamadas**: veja se o encaminhamento de chamadas, siga-me, não perturbe está definido e um rápido wa para editar essas opções, se necessário.
+* **Desvio Grupo de Toque**: Veja o nome, o número do ramal, se o encaminhamento está ativado e para qual número ele é encaminhado.
+* **Gerenciar Sistema:** Número de domínios, dispositivos, ramais, gateways, usuários, destinos, filas CC, menus IVR, grupos de toque, correio de voz e se estiverem desabilitados.
 
 `Dashboard Default Settings`_
 ---------------------------------------
