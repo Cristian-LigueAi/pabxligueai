@@ -7,31 +7,31 @@
 |
 
 
-Welcome to FusionPBX Docs
+Bem Vindo a documentação do PABX Ligue Aí
 =========================
 
-**FusionPBX**
+**PABX Ligue Aí**
 ---------------
 
-An open source project that provides a customizable and
-flexible web interface to the very powerful and highly scalable
-multi-platform voice switch called `FreeSWITCH`_.
+Um projeto de código aberto que fornece uma interface personalizável e
+interface web flexível para o muito poderoso e altamente escalável
+comutador de voz multiplataforma chamado `FreeSWITCH`_.
 
-FusionPBX will run on a variety of operating systems (Optimized for Debian 8+) and
-hardware of your choice. FusionPBX provides a GUI for QR Code soft phone provisioning, unlimited
-extensions, voicemail-to-email, music on hold, call parking, analog
-lines or high density T1/E1 circuits, and many other features. FusionPBX
-provides the functionality that business need and provides corporate
-level phone system features to small, medium and large businesses. `Click here for the FusionPBX youtube channel`_ .
+O FusionPBX será executado em uma variedade de sistemas operacionais (otimizado para Debian 8+) e
+hardware de sua escolha. FusionPBX fornece uma GUI para provisionamento de softphone QR Code, ilimitado
+ramais, correio de voz para e-mail, música em espera, estacionamento de chamadas, analógico
+linhas ou circuitos T1/E1 de alta densidade e muitos outros recursos. FusionPBX
+fornece a funcionalidade que os negócios precisam e fornece
+recursos de sistema telefônico de alto nível para pequenas, médias e grandes empresas. `Clica aqui para mais informações no nosso site`_ .
 
 .. raw:: html
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/XpiVyHqLaus?rel=0" frameborder="0" ; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="350" src="https://ligueai.com.br" frameborder="0" ; encrypted-media" allowfullscreen></iframe>
     </div>
 
 
-Benefits of FusionPBX
+Benefícios do PABX Ligue Aí
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Adding extra functionality to the incredibly robust FreeSWITCH VoIP Platform.
