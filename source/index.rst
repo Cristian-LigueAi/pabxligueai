@@ -7,8 +7,9 @@
 |
 
 
-Bem Vindo a documentação do PABX Ligue Aí
+Documentação PABX Ligue Aí
 =========================
+
 
 **PABX Ligue Aí**
 ---------------
@@ -35,7 +36,7 @@ Benefícios do PABX Ligue Aí
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Adicionando funcionalidade extra à plataforma VoIP FreeSWITCH incrivelmente robusta.
-2. Torna o FreeSWITCH fácil de administrar e, ao mesmo tempo, permite que você trabalhe diretamente na interface de linha de comando do FreeSWITCH (fs_cli) quando precisar.
+2. Torna o FreeSWITCH fácil e, ao mesmo tempo, permite que você trabalhe diretamente na interface de linha de comando do FreeSWITCH (fs_cli) quando precisar.
 3. Dá a seus usuários e locatários uma interface GUI atraente para interagir.
 
 `Características do Ligue Aí`_
