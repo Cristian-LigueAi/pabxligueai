@@ -94,7 +94,7 @@ Benefícios do PABX Ligue Aí
 .. _and lots more...: features/features.html
 .. _FusionPBX Features: features/features.html
 
-Getting Started
+Começando
 =====================
 
 .. toctree::
@@ -102,7 +102,7 @@ Getting Started
    
    getting_started.rst
 
-Home
+Inicio
 =====
 
 .. toctree::
@@ -110,7 +110,7 @@ Home
    
    home.rst
 
-Accounts
+Contas
 ==========
 
 .. toctree::
@@ -127,7 +127,7 @@ Dialplans
    dialplans.rst
    
  
-Applications
+Aplicações
 =============
 
 .. toctree::
@@ -143,7 +143,7 @@ Status
 
    status.rst
 
-Advanced
+Avançado
 ==========
 
 .. toctree::
@@ -167,7 +167,7 @@ Software
    
    software.rst
 
-Additional Information
+Informações Adicionais
 =======================
 
 .. toctree::
@@ -175,7 +175,7 @@ Additional Information
 
    additional_information.rst
 
-Contributing
+Contibuição
 =============
 
 .. toctree::
@@ -183,7 +183,7 @@ Contributing
 
    contributing.rst
 
-Documentation Guide
+Guia de Documentação
 ====================
 
 .. toctree::
@@ -191,7 +191,7 @@ Documentation Guide
 
    doc_guide.rst
 
-Other
+Outros
 =======
 
 .. toctree::
