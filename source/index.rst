@@ -23,7 +23,7 @@ hardware de sua escolha. PABX Ligue Aífornece uma GUI para provisionamento de s
 ramais, correio de voz para e-mail, música em espera, estacionamento de chamadas, analógico
 linhas ou circuitos T1/E1 de alta densidade e muitos outros recursos. PABX Ligue Aí
 fornece a funcionalidade que os negócios precisam e fornece recursos de sistema telefônico de alto nível para pequenas, médias e grandes empresas. 
-`Clique aqui para mais informações no nosso site`_ .
+`Clique aqui para mais detalhes no nosso site`_ .
 
 .. raw:: html
 
