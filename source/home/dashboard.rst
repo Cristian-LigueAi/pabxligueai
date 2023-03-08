@@ -2,7 +2,7 @@
 Dashboard
 ############
 
-Quickly access information and tools related to your account.  Depending on the user permissions, the user may see less options on this screen.
+Acesse rapidamente informações e ferramentas relacionadas à sua conta. Dependendo das permissões do usuário, o usuário pode ver menos opções nesta tela.
 
 .. image:: ../_static/images/home/fusionpbx_home_dashboard.jpg
         :scale: 85%
