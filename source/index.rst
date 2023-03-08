@@ -56,12 +56,6 @@ Benefícios do PABX Ligue Aí
 | `Time Conditions`_      | `WebRTC ready`_       |    `Voicemail`_                 |      `and lots more...`_                 |
 +-------------------------+-----------------------+---------------------------------+------------------------------------------+
 
-Nosso Ecossistema
-^^^^^^^^^^^^^^^
-
-Somos uma **comunidade global** que possui um ecossistema aberto e **muito amigável**. Incentivamos o envolvimento, a contribuição e o feedback da comunidade. Por favor, junte-se a nós, envolvendo-se em dar feedback, novas ideias de recursos, ajudando com código ou documentação.
-
-A maioria das pessoas principais que desenvolvem e usam o Ligue Aí podem ser encontradas na rede IRC **irc.libera.chat** no canal **#ligueai**. Venha se juntar a nós e conhecer a equipe.
 
 .. _Device Provisioning: applications/provision.html
 .. _Streams: applications/streams.html
