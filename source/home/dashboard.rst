@@ -5,7 +5,7 @@ Dashboard
 Acesse rapidamente informações e ferramentas relacionadas à sua conta. Dependendo das permissões do usuário, o usuário pode ver menos opções nesta tela.
 
 .. image:: ../_static/images/home/fusionpbx_home_dashboard.jpg
-        :scale: 100%
+        :scale: 75%
 
 
 * **Correio de Voz:** Correio de voz: Mensagens de voz novas e totais relacionadas à caixa de correio de voz do usuário. Um usuário pode ser atribuído a mais de 1 caixa de correio de voz.
