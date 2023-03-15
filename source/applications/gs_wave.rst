@@ -9,7 +9,7 @@ Grandstream Wave is a soft phone for smart phones or tablets. It can be configur
 * Then go to the Grandstream Wave Account Settings and press the plus+ to add a new account.
 * Press on UCM Account (Scan QR Code) and then select the extension and scan the QR code.
 
-.. image:: ../_static/images/applications/fusionpbx_applications_gs_wave.jpg
+.. image:: ../_static/images/applications/fusionpbx_applications_gs_wave.png
         :scale: 85%
 
 
