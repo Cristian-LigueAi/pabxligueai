@@ -17,10 +17,10 @@ Acesse rapidamente informações e ferramentas relacionadas à sua conta. Depend
 * **Desvio Grupo de Toque**: Veja o nome, o número do ramal, se o encaminhamento está ativado e para qual número ele é encaminhado.
 * **Gerenciar Sistema:** Número de domínios, dispositivos, ramais, gateways, usuários, destinos, filas CC, menus IVR, grupos de toque, correio de voz e se estiverem desabilitados.
 
-`Dashboard Default Settings`_
+`Dashboard Definições`_
 ---------------------------------------
 
 
 
 
-.. _Dashboard Default Settings: /en/latest/advanced/default_settings.html#id5
+.. _Dashboard Definições: /en/latest/advanced/default_settings.html#id5
