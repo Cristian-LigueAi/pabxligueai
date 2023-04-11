@@ -1,42 +1,38 @@
 ************
-Users
+Gerenciar Usuários
 ************
 
 .. image:: ../_static/images/accounts/fusionpbx_users_4_5.jpg
-        :scale: 85%
+        :scale: 100%
 
 
-Define the users information to login to the web interface.
+Defina as informações dos usuários para fazer login na interface da web.
 
-*  Username
-    User id to be used to login.
-*  Password
-    Secret password used to login.
-*  Language
-    Per user language to override the domain or global language.
-*  Time Zone 	
-    Per user time zone only needed if it needs to be different from the global time zone.
+*  Nome de usuário
+     ID do usuário a ser usado para fazer login.
+*  Senha
+     Senha secreta usada para fazer login.
+*  Linguagem
+     Por idioma do usuário para substituir o domínio ou o idioma global.
+*  Fuso horário
+     O fuso horário por usuário só é necessário se precisar ser diferente do fuso horário global.
 *  Status
-    Set the user's presence.
-*  Contact
-    Assign a contact to this user account. View
-*  Groups
-    The group the user is assigned.
-*  Domain
-    The domain the user is assigned to.
-*  API Key
-    Generates an API Key
-*  Message Key
-    Generates a Key to use with Messages Application.
-*  Enable
-    Whether the user is enabled.
+     Defina a presença do usuário.
+*  Contato
+     Atribua um contato a esta conta de usuário. Visualizar
+* Grupos
+     O grupo ao qual o usuário está atribuído.
+* Domínio
+     O domínio ao qual o usuário está atribuído.
+*  Chave API
+     Gera uma chave de API
+* Chave de mensagem
+     Gera uma chave para usar com o aplicativo de mensagens.
+*  Habilitar
+     Se o usuário está habilitado.
 
 
-`Users Default Settings`_
+`Configurações padrão dos usuários`_
 ---------------------------------------
 
-Click the link above for Users default settings.
-
-
-.. _Users Default Settings: /en/latest/advanced/default_settings.html#id31
-
+Clique no link acima para as configurações padrão dos usuários.
