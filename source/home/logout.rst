@@ -3,8 +3,8 @@ Logout
 #######
 
 
-Logout when you are done, after an upgrade or specific setting change that requires a new session.
+Faça logout quando terminar ou após uma atualização e alteração de configuração específica que exija uma nova sessão.
 
-.. image:: ../_static/images/home/fusionpbx_logout.jpg
-        :scale: 85%
+.. image:: ../_static/images/home/ligue_logout.jpg
+        :scale: 100%
 
