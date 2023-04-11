@@ -5,7 +5,7 @@ Account Settings
 
 
 
-.. image:: ../_static/images/fusionpbx_account_settings.jpg
+.. image:: ../_static/images/ligue_account_settings.jpg
         :scale: 85%
 
 
