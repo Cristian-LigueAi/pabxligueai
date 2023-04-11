@@ -1,4 +1,4 @@
-Ininio
+Inicio
 ======
 
 O menu inicial dá acesso às configurações da conta, ao painel de controle e à opção de logout.
