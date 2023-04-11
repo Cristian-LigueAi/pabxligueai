@@ -1,8 +1,8 @@
 ************
-Accounts
+Contas
 ************
 
-In the **Accounts** menu you have access to devices, extensions, gateways, providers and users. 
+No menu **Contas** você tem acesso a dispositivos, ramais, gateways, provedores e usuários.
 
 
 
