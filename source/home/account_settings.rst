@@ -9,17 +9,16 @@ Account Settings
         :scale: 85%
 
 
+* **Nome do usuário:** O nome do usuário.
+* **Senha:** A senha.
+* **Confirmar senha:** Deve corresponder à senha.
+* **Idioma:** Escolha um idioma para o usuário.
+* **Fuso Horário:** Fuso horário específico do usuário.
+* **Status:** Usado para central de atendimento e painel do operador.
+* **Contato:** O contato do usuário. É usado em uma lista telefônica ou em Aplicativos > Contatos.
+* **Grupos:** Grupo em que o usuário está e relacionado ao que o usuário pode ver e fazer nos menus.
+* **Domínio:** Domínio específico do usuário.
+* **Ativado:** ativa ou desativa a conta.
 
-* **User Name:** The user name.
-* **Password:** The password.
-* **Confirm Password:** Must match the password.
-* **Language:** Choose a language for the user.
-* **Time Zone:** Time zone specific to the user.
-* **Status:** Used for call center and operator panel.
-* **Contact:** The users contact.  Is used in a phone directory or Apps > Contacts.
-* **Groups:** Group the user is in and relates to what the user can see and do in the menus.
-* **Domain:**  Domain specific to the user.
-* **Enabled:** Enable or disable the account.
 
-
-Time zone can be set per user but it can also be set in Menu -> Advanced -> Default Settings.
+O fuso horário pode ser definido por usuário, mas também pode ser definido em Menu -> Avançado -> Configurações padrão.
