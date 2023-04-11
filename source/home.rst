@@ -1,8 +1,7 @@
-Home
+Ininio
 ======
 
-The **Home** menu gives access to Account Settings, Dashboard and the option to Logout.
-
+O menu inicial dá acesso às configurações da conta, ao painel de controle e à opção de logout.
 
 .. toctree::
   :maxdepth: 3
