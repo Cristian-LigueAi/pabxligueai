@@ -6,7 +6,7 @@ Account Settings
 
 
 .. image:: ../_static/images/ligue_account_settings.jpg
-        :scale: 85%
+        :scale: 100%
 
 
 * **Nome do usuário:** O nome do usuário.
